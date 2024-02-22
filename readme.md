@@ -11,7 +11,7 @@ Welcome to the Star Wars Planets Directory! Explore information about various pl
 
 ## Demo
 
-[Live Demo](#) - [https://rvp6696.github.io/planets_directory]
+<a href="https://rvp6696.github.io/planets_directory" target="_new">Click Here for a Live Demo</a>
 
 ## Installation
 
